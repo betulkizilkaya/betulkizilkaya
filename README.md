@@ -1,13 +1,12 @@
 ## 🧕🏼 Hi there, I'm Betül!
 
-🎓 A 3rd-year Computer Engineering student at Balıkesir University.
-💻 Junior Backend Developer focused on Java and Spring technologies.  
-🌟 Passionate about clean code, scalable backend systems, and continuous learning.
+🎓 A 3rd-year Computer Engineering student at Balıkesir University.<br>
+💻 Junior Backend Developer focused on Java and Spring technologies.<br>   
 
 🚀 **Goals for 2025:**  
-- 🔥 Strengthen my skills in Spring Boot and backend architectures  
-- 🌐 Build real-world projects for web and mobile backends  
-- ☁️ Explore cloud deployment and scalable backend systems
+- 🔥 Strengthen my skills in Spring Boot and backend architectures<br>  
+- 🌐 Build real-world projects for web and mobile backends<br>   
+- ☁️ Explore cloud deployment and scalable backend systems<br> 
 
 📫 **How to reach me:**  
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/betulkizilkaya)
