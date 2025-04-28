@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm Betül!
+## 🧕🏼 Hi there, I'm Betül!
 
-🎓 A Computer Engineering student at Balıkesir University.  
+🎓 A 3rd-year Computer Engineering student at Balıkesir University.
 💻 Junior Backend Developer focused on Java and Spring technologies.  
 🌟 Passionate about clean code, scalable backend systems, and continuous learning.
 
