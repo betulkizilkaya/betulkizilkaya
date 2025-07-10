@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60%" />
 </p>
 
-  🎓 A 3rd-year Computer Engineering student at Balıkesir University.<br>
+  🎓 A 4rd-year Computer Engineering student at Balıkesir University.<br>
   💻 Junior Backend Developer focused on Java and Spring technologies.<br>
 
-  🔭 <strong>Currently working on:</strong> <br>
+  🔭 **Ｃｕｒｒｅｎｔｌｙ　ｗｏｒｋｉｎｇ　ｏｎ：**<br>
   Backend development with Java (NetBeans & Eclipse) <br>
   Data processing using SQLite <br>
   Text similarity analysis on large-scale datasets
 </p>
 
-  🌱 <strong>Currently learning:</strong> <br>
+  🌱 **Ｃｕｒｒｅｎｔｌｙ　ｌｅａｒｎｉｎｇ:**<br>
   Classical and AI-based similarity algorithms <br>
   Java/Python libraries such as Apache Tika, OpenNLP, and Splink <br> 
   Large-scale record comparison and entity matching <br>
@@ -27,7 +27,7 @@
   Result visualization using PyQt and web interfaces
 
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50%" />
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="10%" />
 </p>
 
 
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white"/>
 </p>
 
 <h1 align="center">📊 GitHub Stats</h1>
