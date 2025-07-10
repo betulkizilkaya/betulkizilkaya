@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="65%" />
 </p>
 
   🎓 A 4rd-year Computer Engineering student at Balıkesir University.<br>
   💻 Junior Backend Developer focused on Java and Spring technologies.<br>
 
-  🔭 **Ｃｕｒｒｅｎｔｌｙ ｗｏｒｋｉｎｇ ｏｎ：**<br>
+  🔭 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏： <br>
   Backend development with Java (NetBeans & Eclipse) <br>
   Data processing using SQLite <br>
   Text similarity analysis on large-scale datasets
 </p>
 
-  🌱 **Ｃｕｒｒｅｎｔｌｙ ｌｅａｒｎｉｎｇ:**<br>
+  🌱 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈：<br>
   Classical and AI-based similarity algorithms <br>
   Java/Python libraries such as Apache Tika, OpenNLP, and Splink <br> 
   Large-scale record comparison and entity matching <br>
