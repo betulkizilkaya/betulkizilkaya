@@ -1,46 +1,63 @@
-## 🧕🏼 Hi there, I'm Betül!
+<h1 align="center"><span style="color:#F58DA6;">Hi there, I'm Betül!</span></h1>
+<p align="center">
+  <em>Welcome to my GitHub!</em>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=EAD9D4&height=10&section=header"/>
+</p>
 
 <p align="center">
-  <img src="https://github.com/betulkizilkaya/assets/blob/main/images/animation.gif?raw=true" width="30%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" />
+</p>
+
+  🎓 A 3rd-year Computer Engineering student at Balıkesir University.<br>
+  💻 Junior Backend Developer focused on Java and Spring technologies.<br>
+
+  🔭 <strong>Currently working on:</strong> <br>
+  Backend development with Java (NetBeans & Eclipse) <br>
+  Data processing using SQLite <br>
+  Text similarity analysis on large-scale datasets
+</p>
+
+  🌱 <strong>Currently learning:</strong> <br>
+  Classical and AI-based similarity algorithms <br>
+  Java/Python libraries such as Apache Tika, OpenNLP, and Splink <br> 
+  Large-scale record comparison and entity matching <br>
+  Matching across various data types (text, image, PDF, binary, etc.) <br>
+  Result visualization using PyQt and web interfaces
+
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50%" />
 </p>
 
 
-🎓 A 3rd-year Computer Engineering student at Balıkesir University.<br>
-💻 Junior Backend Developer focused on Java and Spring technologies.<br>   
-
-🔭 **Currently working on:** <br>
-Backend development with Java (NetBeans & Eclipse) <br>
-Data processing using SQLite <br>
-Text similarity analysis on large-scale datasets <br><br>
-
-🌱 **Currently learning:** <br>
-Classical and AI-based similarity algorithms <br>
-Java/Python libraries such as Apache Tika, OpenNLP, and Splink <br>
-Large-scale record comparison and entity matching <br>
-Matching across various data types (text, image, PDF, binary, etc.) <br>
-Result visualization using PyQt and web interfaces
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/betulkizilkaya) 
 
 
-📫 **How to reach me:**  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/betulkizilkaya)
+<h1>💻 Tech Stack</h1>
 
----
+<p>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white"/>
+</p>
 
-## 🛠️ Tech Stack:
+<h1 align="center">📊 GitHub Stats</h1>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=betulkizilkaya&theme=rose&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=betulkizilkaya&theme=rose&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulkizilkaya&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
 
----
+<h3 align="center">🔝 Top Contributed Repo</h3>
 
-## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=betulkizilkaya&limit=5&theme=rose&combine_all_yearly_contributions=true"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=betulkizilkaya&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=betulkizilkaya&theme=rose&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=betulkizilkaya&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
-
-[![](https://visitcount.itsvg.in/api?id=betulkizilkaya&icon=9&color=5)](https://visitcount.itsvg.in)
