@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color:#F58DA6;">🌸 Ｈｉ　ｔｈｅｒｅ，　Ｉ’ｍ　Ｂｅｔüｌ！</span></h1>
+<h1 align="center"><span style="color:#F58DA6;">✨Ｈｉ　ｔｈｅｒｅ，　Ｉ’ｍ　Ｂｅｔüｌ！</span></h1>
 <p align="center">
   <em>Welcome to my GitHub!</em>
 </p>
