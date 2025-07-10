@@ -1,9 +1,9 @@
-<h1 align="center"><span style="color:#F58DA6;">✨Ｈｉ　ｔｈｅｒｅ，　Ｉ’ｍ　Ｂｅｔüｌ！</span></h1>
+<h2 align="center"><span style="color:#F58DA6;">✨Ｈｉ　ｔｈｅｒｅ，　Ｉ’ｍ　Ｂｅｔüｌ！</span></h2>
 <p align="center">
   <em>Welcome to my GitHub!</em>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=EAD9D4&height=10&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=EAD9D4&height=7&section=header"/>
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
   🎓 A 4rd-year Computer Engineering student at Balıkesir University.<br>
   💻 Junior Backend Developer focused on Java and Spring technologies.<br>
 
-  🔭 **Ｃｕｒｒｅｎｔｌｙ　ｗｏｒｋｉｎｇ　ｏｎ：**<br>
+  🔭 **Ｃｕｒｒｅｎｔｌｙ ｗｏｒｋｉｎｇ ｏｎ：**<br>
   Backend development with Java (NetBeans & Eclipse) <br>
   Data processing using SQLite <br>
   Text similarity analysis on large-scale datasets
 </p>
 
-  🌱 **Ｃｕｒｒｅｎｔｌｙ　ｌｅａｒｎｉｎｇ:**<br>
+  🌱 **Ｃｕｒｒｅｎｔｌｙ ｌｅａｒｎｉｎｇ:**<br>
   Classical and AI-based similarity algorithms <br>
   Java/Python libraries such as Apache Tika, OpenNLP, and Splink <br> 
   Large-scale record comparison and entity matching <br>
