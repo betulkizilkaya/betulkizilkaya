@@ -1,64 +1,238 @@
-<h2 align="center"><span style="color:#F58DA6;">✨Ｈｉ　ｔｈｅｒｅ，　Ｉ’ｍ　Ｂｅｔüｌ！</span></h2>
+<h1 align="center">✨ Hi there, I'm Betül!</h1>
+
 <p align="center">
-  <em>Welcome to my GitHub!</em>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=EAD9D4&height=7&section=header"/>
+  <em>Computer Engineering Graduate · AI & Data Enthusiast</em>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="65%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=soft&color=F7DF1E&height=7&section=header"
+    width="100%"
+    alt="Divider"
+  />
 </p>
 
-  🎓 A 4rd-year Computer Engineering student at Balıkesir University.<br>
-  💻 Junior Backend Developer focused on Java and Spring technologies.<br>
-
-  🔭 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏： <br>
-  Backend development with Java (NetBeans & Eclipse) <br>
-  Data processing using SQLite <br>
-  Text similarity analysis on large-scale datasets
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+    width="60%"
+    alt="Coding animation"
+  />
 </p>
 
-  🌱 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈：<br>
-  Classical and AI-based similarity algorithms <br>
-  Java/Python libraries such as Apache Tika, OpenNLP, and Splink <br> 
-  Large-scale record comparison and entity matching <br>
-  Matching across various data types (text, image, PDF, binary, etc.) <br>
-  Result visualization using PyQt and web interfaces
+---
 
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="15%" />
-</p>
+## About Me
 
+🎓 Computer Engineering graduate from **Balıkesir University**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/betulkizilkaya) 
+🤖 Interested in **Artificial Intelligence, Machine Learning, Data Analysis, Natural Language Processing, Computer Vision, and SQL**
 
+📊 Experienced in working with **Python, machine learning models, document analysis, OCR, databases, and data visualization**
 
-<h1>💻 Tech Stack</h1>
+🧠 I enjoy transforming complex data into meaningful and understandable solutions
+
+🌱 Currently improving my skills in:
+
+- Machine Learning and Artificial Intelligence
+- Data Analysis and Data Visualization
+- Natural Language Processing
+- Computer Vision and OCR
+- SQL and Database Management
+- Python Development
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>📄 DocuVision AI</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white"/>
+  A multimodal AI-powered document analysis system developed as a
+  three-person Computer Engineering graduation project.
 </p>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<p>
+  <strong>My contributions:</strong> document classification, CNN-based
+  chessboard classification, OCR preprocessing, chess notation extraction,
+  and model evaluation.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/OCR-6C63FF?style=flat-square" alt="OCR"/>
+</p>
+
+<a href="https://github.com/betulkizilkaya/DocuVision-AI">
+  <img
+    src="https://img.shields.io/badge/View%20Project-DocuVision%20AI-F58DA6?style=for-the-badge&logo=github&logoColor=white"
+    alt="View DocuVision AI"
+  />
+</a>
+
+  </td>
+
+  <td width="50%" valign="top">
+
+<h3>🖼️ Image Similarity</h3>
+
+<p>
+  An image similarity pipeline that extracts visual embeddings with
+  ResNet50 and compares images using cosine similarity.
+</p>
+
+<p>
+  The system stores image paths, similarity scores, and nearest matches
+  in a SQLite database.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/ResNet50-6C63FF?style=flat-square" alt="ResNet50"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+<a href="https://github.com/betulkizilkaya/Image_similarity">
+  <img
+    src="https://img.shields.io/badge/View%20Project-Image%20Similarity-6CB7C5?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Image Similarity"
+  />
+</a>
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+<h3>📚 PDF Semantic Similarity</h3>
+
+<p>
+  A semantic similarity system that extracts text from academic PDF
+  documents and represents their content using sentence embeddings.
+</p>
+
+<p>
+  Similarity scores are calculated with cosine similarity and stored
+  in a SQLite database.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=flat-square" alt="Sentence Transformers"/>
+  <img src="https://img.shields.io/badge/MiniLM-6C63FF?style=flat-square" alt="MiniLM"/>
+  <img src="https://img.shields.io/badge/PyMuPDF-00A98F?style=flat-square" alt="PyMuPDF"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+<a href="https://github.com/betulkizilkaya/PDF-similarity">
+  <img
+    src="https://img.shields.io/badge/View%20Project-PDF%20Similarity-EA8FB1?style=for-the-badge&logo=github&logoColor=white"
+    alt="View PDF Similarity"
+  />
+</a>
+
+  </td>
+
+  <td width="50%" valign="middle" align="center">
+
+<p>
+  More computer vision and data projects are coming soon.
+</p>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+<h2>💻 Tech Stack</h2>
+
+<h3>👩‍💻 Programming Languages</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white" alt="SQL"/>
+</p>
+
+<h3>🤖 Machine Learning & Data</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+<h3>🗄️ Databases</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+</p>
+
+<h3>🛠️ Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="NetBeans"/>
+</p>
+
+  </td>
+
+  <td width="50%" align="center" valign="middle">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"
+  width="85%"
+  alt="Cute animation"
+/>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betulkizilkaya&theme=rose&hide_border=false&include_all_commits=false&count_private=false"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=betulkizilkaya&theme=rose&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betulkizilkaya&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <a href="https://linkedin.com/in/betulkizilkaya">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:betulkizilkya@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 </p>
-
-<h3 align="center">🔝 Top Contributed Repo</h3>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=betulkizilkaya&limit=5&theme=rose&combine_all_yearly_contributions=true"/>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
