@@ -81,6 +81,44 @@
 
   <td width="50%" valign="top">
 
+<h3>🧑‍🤝‍🧑 News Face Detection & Clustering</h3>
+
+<p>
+  An end-to-end computer vision pipeline that collects news images,
+  detects faces, extracts facial embeddings, and groups similar faces
+  using density-based clustering.
+</p>
+
+<p>
+  The pipeline includes web scraping, RetinaFace detection, FaceNet
+  embedding extraction, DBSCAN clustering, and automated reporting.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/DeepFace-5C3EE8?style=flat-square" alt="DeepFace"/>
+  <img src="https://img.shields.io/badge/RetinaFace-FF6F00?style=flat-square" alt="RetinaFace"/>
+  <img src="https://img.shields.io/badge/FaceNet-4285F4?style=flat-square" alt="FaceNet"/>
+  <img src="https://img.shields.io/badge/DBSCAN-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="DBSCAN"/>
+</p>
+
+<a href="https://github.com/betulkizilkaya/News-Face-Detection-and-Clustering">
+  <img
+    src="https://img.shields.io/badge/View%20Project-Face%20Clustering-9B8AFB?style=for-the-badge&logo=github&logoColor=white"
+    alt="View News Face Detection and Clustering"
+  />
+</a>
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
 <h3>🖼️ Image Similarity</h3>
 
 <p>
@@ -109,49 +147,35 @@
 </a>
 
   </td>
-  </tr>
-</table>
 
-<br>
+  <td width="50%" valign="top">
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-<h3>📚 PDF Semantic Similarity</h3>
+<h3>🎓 Student Performance Classification</h3>
 
 <p>
-  A semantic similarity system that extracts text from academic PDF
-  documents and represents their content using sentence embeddings.
+  A machine learning project that predicts student academic success
+  using demographic, social, and behavioral attributes.
 </p>
 
 <p>
-  Similarity scores are calculated with cosine similarity and stored
-  in a SQLite database.
+  ID3, C4.5, CART, and kNN models are compared using accuracy,
+  precision, recall, F1-score, and confusion matrices.
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=flat-square" alt="Sentence Transformers"/>
-  <img src="https://img.shields.io/badge/MiniLM-6C63FF?style=flat-square" alt="MiniLM"/>
-  <img src="https://img.shields.io/badge/PyMuPDF-00A98F?style=flat-square" alt="PyMuPDF"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/ChefBoost-7B1FA2?style=flat-square" alt="ChefBoost"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-<a href="https://github.com/betulkizilkaya/PDF-similarity">
+<a href="https://github.com/betulkizilkaya/Student-Performance-Classification">
   <img
-    src="https://img.shields.io/badge/View%20Project-PDF%20Similarity-EA8FB1?style=for-the-badge&logo=github&logoColor=white"
-    alt="View PDF Similarity"
+    src="https://img.shields.io/badge/View%20Project-Student%20Classification-F58DA6?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Student Performance Classification"
   />
 </a>
-
-  </td>
-
-  <td width="50%" valign="middle" align="center">
-
-<p>
-  More computer vision and data projects are coming soon.
-</p>
 
   </td>
   </tr>
